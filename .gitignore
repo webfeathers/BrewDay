@@ -3,4 +3,4 @@
 /tmp/*
 /logs/*
 
-plugins/_notes/dwsync.xml
+*/_notes/dwsync.xml
