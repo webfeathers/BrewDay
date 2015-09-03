@@ -1,0 +1,1 @@
+\Cake\Core\Plugin::load('BootstrapUI');
