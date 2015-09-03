@@ -25,9 +25,7 @@ $this->layout = false;
 <head>
     <?= $this->Html->charset() ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-        <?= $cakeDescription ?>
-    </title>
+    <title>BrewDay</title>
     <?= $this->Html->meta('icon') ?>
     <?= $this->Html->css('bootstrap.css') ?>
 	<?= $this->Html->script('jquery-1.11.3.min'); ?>
