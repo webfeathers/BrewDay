@@ -3,4 +3,5 @@
 /tmp/*
 /logs/*
 
-*/_notes/dwsync.xml
+_notes
+/*/_notes
