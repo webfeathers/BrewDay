@@ -1,0 +1,65 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.navbar-brand{
+	background-image:url(../img/medium_logo.png);
+	background-repeat:no-repeat;
+	height:45px;
+	width:113px;
+	margin:5px;
+}
+.navbar-brand strong{
+	display:none;
+}
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+  padding: 20px 0;
+
+}
+
+/* END Sticky footer styles
+-------------------------------------------------- */
+
+#supplierListing li{
+	margin:20px;
+}
+
+.addBrewButton{
+	padding:8px 12px;
+}
+
+.measurementName{
+	top: 7px;
+	position: relative;
+}
